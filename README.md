@@ -10,4 +10,5 @@ The implementations are given in Python 3 in Jupyter notebooks.
 * [Sort](sort)
   * [Insertion sort](sort/insertion_sort.ipynb)
   * [Selection sort](sort/selection_sort.ipynb)
+  * [Gnome sort](sort/gnome_sort.ipynb)
 
